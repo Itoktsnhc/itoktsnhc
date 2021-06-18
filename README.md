@@ -1,18 +1,11 @@
-### Hi there 👋
+## Hello World!
+I am a software developer mainly using C# from 2015.
+- 📍  Location: Shanghai, China
+- 🔭 I’m currently working on:
+  - Job info track system which use orleans: [JobTrackerX.Orleans](https://github.com/Itoktsnhc/JobTrackerX.Orleans)
+- 🌱 I’m currently learning: 
+  - Languages: [F#; Rust; Go; Elixir;]
+  - Books: [Design Data intensive application; Streaming systems; Elixir in Action; Functional and Reactive Domain Modeling;]
+  - Others: [Dapr; Orleans; Raft;]
 
 [![itoktsnhc's GitHub stats](https://github-readme-stats.vercel.app/api?username=itoktsnhc)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Itoktsnhc/itoktsnhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
