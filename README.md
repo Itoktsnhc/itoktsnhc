@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm itoktsnhc (or TimZhang)</h1>
+<h1 align="center">Hi 👋, I'm itoktsnhc (or Tim Zhang)</h1>
 <h3 align="center">A software developer mainly using C# from 2015.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itoktsnhc&label=Profile%20views&color=0e75b6&style=flat" alt="itoktsnhc" /> </p>
 
