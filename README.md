@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itoktsnhc&label=Profile%20views&color=0e75b6&style=flat" alt="itoktsnhc" /> </p>
 
 - 🔭 Working on:
-  - [JobTrackerX.Orleans](https://github.com/Itoktsnhc/JobTrackerX.Orleans) : A  common job/task run info track system use [Orleans](https://github.com/dotnet/orleans) as Actor support system
   - [stat.itok](https://github.com/Itoktsnhc/stat.itok) : A tool on Azure for connecting [splatoon3](https://splatoon.nintendo.com/) game battle histories to stat.ink, PaaS service used:Application insights, Storage, StaticWeb App and Functions(timer and queue trigger).
+  - [JobTrackerX.Orleans](https://github.com/Itoktsnhc/JobTrackerX.Orleans) : A  common job/task run info track system use [Orleans](https://github.com/dotnet/orleans) as Actor support system
+
 - 🌱 Learning **F#; Rust; DDIA; Streaming system**
 - 📫 If you have any job opportunities for me : **itoktsnhc@hotmail.com**
 
