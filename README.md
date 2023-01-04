@@ -6,7 +6,7 @@
   - [stat.itok](https://github.com/Itoktsnhc/stat.itok) : A tool on Azure for connecting [splatoon3](https://splatoon.nintendo.com/) game battle histories to stat.ink, PaaS service used:Application insights, Storage, StaticWeb App and Functions(timer and queue trigger).
   - [JobTrackerX.Orleans](https://github.com/Itoktsnhc/JobTrackerX.Orleans) : A  common job/task run info track system use [Orleans](https://github.com/dotnet/orleans) as Actor support system
 
-- 🌱 Learning **F#; Rust; DDIA; Streaming system**
+- 🌱 Learning **Elixir; Rust; DDIA; Streaming system**
 - 📫 If you have any job opportunities for me : **itoktsnhc@hotmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itoktsnhc" alt="itoktsnhc" /></a> </p>
